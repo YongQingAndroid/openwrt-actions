@@ -5,7 +5,7 @@
 # Author: P3TERX
 # Blog: https://p3terx.com
 #=================================================
-name: X64-master-qing
+name: X64-master-qing-1
 
 on:
   schedule:
